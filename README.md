@@ -77,13 +77,10 @@ governance.createProposal({ "Increase Foraging Rewards", "0xYourAddress" });
 governance.castVote("ProposalID", "0xYourAddress", VoteType::For);
 ```
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contribution
 Contributions are welcome! Please follow these steps:
 1. Fork the repository.
-2. Create a new branch (`feature-name`).
+2. Create a new branch
 3. Commit your changes.
 4. Open a Pull Request.
 
